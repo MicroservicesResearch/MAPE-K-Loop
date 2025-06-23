@@ -57,7 +57,6 @@ The extended architecture consists of the following components:
 - **BPMN (Business Process Model and Notation)** – Used for modeling and composing the global and local service workflows.
 - **MAPE-K Control Loop** – Implemented in Java to support self-adaptive behavior through Monitoring, Analysis, Planning, and Execution phases.
 
-
 ## Acknowledgements
 
 This project has been funded by:
