@@ -49,8 +49,8 @@ The extended architecture consists of the following components:
 ## Technologies Used
 
 - **Spring Boot** – Used to develop the microservices of the architecture.
-- **RabbitMQ** – Implements the **Evolution Event Bus**, enabling asynchronous, event-driven communication between components.
-- **BPMN (Business Process Model and Notation)** – Used for modeling and composing the global and local service workflows.
+- **RabbitMQ** – Implements the **Evolution Event Bus**.
+- **BPMN (Business Process Model and Notation)** – Used for modeling and composing the global and local microservices processes.
 - **MAPE-K Control Loop** – Implemented in Java to support self-adaptive behavior through Monitoring, Analysis, Planning, and Execution phases.
 
 
